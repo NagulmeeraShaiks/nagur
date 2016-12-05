@@ -7,7 +7,7 @@ public class ScnarioOne extends OpenBroser {
 	@Test
 	public void loginScnario()
 	{
-		refunobject.clicking(refunobject.loginfunction());
+		refunobject.loginfunction();
 	}
 
 }
